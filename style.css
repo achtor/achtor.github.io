@@ -1,0 +1,19 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: Helvetica;
+}
+
+a {
+   text-decoration: none;
+}
+
+p {
+   display: block;
+   margin: auto;
+}
+
+
