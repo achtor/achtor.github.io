@@ -3,6 +3,10 @@
    padding: 0;
 }
 
+body {
+   margin-top: 50vh;
+}
+
 a {
    text-decoration: none;
 }
